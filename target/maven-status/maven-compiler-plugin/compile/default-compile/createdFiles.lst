@@ -1,0 +1,5 @@
+com\upiiz\expenses\repository\ExpensesRepository.class
+com\upiiz\expenses\services\ExpensesService.class
+com\upiiz\expenses\controllers\ExpensesController.class
+com\upiiz\expenses\models\Expense.class
+com\upiiz\expenses\ExpensesApplication.class
